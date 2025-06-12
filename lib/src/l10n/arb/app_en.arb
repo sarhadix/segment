@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "wordContinue": "Continue",
+  "noSubImportedText": "To connect to unrestricted internet,\nyou need a subscription link.",
+  "wordImport": "Import",
+  "checkInternetConnection": "Check your internet connection status !",
+  "slideToDisconnect": "Slide to disconnect",
+  "activeTimeText": "ACTIVE TIME",
+  "hasActiveSub_MainScreen": "To improve the connection conditions, \nyou can always import another config \nor subscription."
+}
