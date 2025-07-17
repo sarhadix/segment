@@ -10,6 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # اضافه شده برای درخواست HTTP
+  http: ^1.2.1
+
   # Localization and Language
   flutter_localizations:
     sdk: flutter
@@ -73,7 +76,6 @@ dev_dependencies:
   flutter_gen_runner: ^5.10.0
   go_router_builder: ^2.9.0
   ffigen: ^19.0.0
-
 
 flutter:
   generate: true
